@@ -10,12 +10,12 @@
     "DATABASE_URL": {
       "description": "your mongodb database url",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": "GuruBot~XERCeRkz"
+      "value": "GuruBot~Pw18T462"
     },
     "MODE": {
       "description": "mode public or private",
@@ -25,17 +25,17 @@
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
-      "value": "."
+      "value": "#"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": "8bb6c03d-7932-4bd8-9400-b108e54e2ea6"
+      "value": "207493b8-9646-41d2-b0c7-03231552bb7b"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": "usman-n32"
+      "value": "usman-n31202"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
